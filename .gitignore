@@ -1,0 +1,12 @@
+*.json 
+env/
+__pycache__/
+.vscode/
+Data/chroma_db/
+*.pyc
+armenian-voice-agent-99bcd5657f4c.json
+.env
+# personal notes and files / trials
+to-uninstall.txt
+backendagent.py
+agentllm.py
