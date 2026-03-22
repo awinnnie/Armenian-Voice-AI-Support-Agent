@@ -1,0 +1,302 @@
+[
+  {
+    "url": "https://ameriabank.am/service-network",
+    "bank": "ameria",
+    "type": "branch",
+    "name": "Պրեմիում սրահ – Գլխամաս",
+    "address": "ՀՀ, ք. Երևան, 0010, Վազգեն Սարգսյան 2",
+    "phone": "+374 10 56 1111",
+    "hours": "Ստանդարտ գրաֆիկով",
+    "region": "Երևան"
+  },
+  {
+    "url": "https://ameriabank.am/service-network",
+    "bank": "ameria",
+    "type": "branch",
+    "name": "«Կամար» մ/ճ",
+    "address": "ՀՀ, ք. Երևան, 0010, Վազգեն Սարգսյան 2, «Կամար» բիզնես կենտրոնի 1-ին հարկ",
+    "phone": "+374 10 56 1111",
+    "hours": "Ստանդարտ գրաֆիկով",
+    "region": "Երևան"
+  },
+  {
+    "url": "https://ameriabank.am/service-network",
+    "bank": "ameria",
+    "type": "branch",
+    "name": "«Մաշտոց» մ/ճ",
+    "address": "ՀՀ, ք. Երևան, 0082, Մաշտոցի պող. 20/4, Անցում N1",
+    "phone": "+374 10 56 1111",
+    "hours": "Երկարացված գրաֆիկով",
+    "region": "Երևան"
+  },
+  {
+    "url": "https://ameriabank.am/service-network",
+    "bank": "ameria",
+    "type": "branch",
+    "name": "«Մոսկովյան» մ/ճ",
+    "address": "ՀՀ, ք. Երևան, 0002, Մաշտոցի պող. 48, 2/1 տարածք",
+    "phone": "+374 10 56 1111",
+    "hours": "Ստանդարտ գրաֆիկով",
+    "region": "Երևան"
+  },
+  {
+    "url": "https://ameriabank.am/service-network",
+    "bank": "ameria",
+    "type": "branch",
+    "name": "«Երիտասարդական» մ/ճ",
+    "address": "ՀՀ, ք. Երևան, 0009, Իսահակյան 22/8",
+    "phone": "+374 10 56 1111",
+    "hours": "Երկարացված գրաֆիկով",
+    "region": "Երևան"
+  },
+  {
+    "url": "https://ameriabank.am/service-network",
+    "bank": "ameria",
+    "type": "branch",
+    "name": "«Սայաթ-Նովա» մ/ճ",
+    "address": "ՀՀ, ք. Երևան, 0001, Սայաթ-Նովա 8 շենք, 47 տարածք",
+    "phone": "+374 10 56 1111",
+    "hours": "Ստանդարտ գրաֆիկով",
+    "region": "Երևան"
+  },
+  {
+    "url": "https://ameriabank.am/service-network",
+    "bank": "ameria",
+    "type": "branch",
+    "name": "«Դալմա» մ/ճ",
+    "address": "ՀՀ, ք. Երևան, 0082, Ծիծեռնակաբերդի խճուղի 3, «Դալմա Գարդեն Մոլ» առևտրի կենտրոն",
+    "phone": "+374 10 56 1111",
+    "hours": "Երկարացված գրաֆիկով",
+    "region": "Երևան"
+  },
+  {
+    "url": "https://ameriabank.am/service-network",
+    "bank": "ameria",
+    "type": "branch",
+    "name": "«Կոմիտաս» մ/ճ",
+    "address": "ՀՀ, ք. Երևան, 0033, Կոմիտաս 12, շ. 1021",
+    "phone": "+374 10 56 1111",
+    "hours": "Ստանդարտ գրաֆիկով",
+    "region": "Երևան"
+  },
+  {
+    "url": "https://ameriabank.am/service-network",
+    "bank": "ameria",
+    "type": "branch",
+    "name": "«Քոչար» մ/ճ",
+    "address": "ՀՀ, ք. Երևան, 0012, Փափազյան 8, «Ռիո Մոլ» առևտրի կենտրոն",
+    "phone": "+374 10 56 1111",
+    "hours": "Երկարացված գրաֆիկով",
+    "region": "Երևան"
+  },
+  {
+    "url": "https://ameriabank.am/service-network",
+    "bank": "ameria",
+    "type": "branch",
+    "name": "Զեյթուն մ/ճ",
+    "address": "ՀՀ, ք. Երևան, Հ. Ներսիսյան փ. 1 շենք, 127",
+    "phone": "+374 10 56 1111",
+    "hours": "Ստանդարտ գրաֆիկով",
+    "region": "Երևան"
+  },
+  {
+    "url": "https://ameriabank.am/service-network",
+    "bank": "ameria",
+    "type": "branch",
+    "name": "«Էրեբունի» մ/ճ",
+    "address": "ՀՀ, ք. Երևան, Էրեբունի փ. 17/1",
+    "phone": "+374 10 56 1111",
+    "hours": "Երկարացված գրաֆիկով",
+    "region": "Երևան"
+  },
+  {
+    "url": "https://ameriabank.am/service-network",
+    "bank": "ameria",
+    "type": "branch",
+    "name": "«Արշակունյաց» մ/ճ",
+    "address": "ՀՀ, ք. Երևան, 0026, Արշակունյաց 34/3, «Երևան Մոլ» առևտրի կենտրոն, 2-րդ հարկ",
+    "phone": "+374 10 56 1111",
+    "hours": "Երկարացված գրաֆիկով",
+    "region": "Երևան"
+  },
+  {
+    "url": "https://ameriabank.am/service-network",
+    "bank": "ameria",
+    "type": "branch",
+    "name": "«Շենգավիթ» մ/ճ",
+    "address": "ՀՀ, ք. Երևան, 0046, Բագրատունյաց 18 շենք, 112 տարածք",
+    "phone": "+374 10 56 1111",
+    "hours": "Ստանդարտ գրաֆիկով",
+    "region": "Երևան"
+  },
+  {
+    "url": "https://ameriabank.am/service-network",
+    "bank": "ameria",
+    "type": "branch",
+    "name": "«Նոր Նորք» մ/ճ",
+    "address": "ՀՀ, ք. Երևան, 0056, Գայի պողոտա 16, «Մեգամոլ» առևտրի կենտրոն",
+    "phone": "+374 10 56 1111",
+    "hours": "Երկարացված գրաֆիկով",
+    "region": "Երևան"
+  },
+  {
+    "url": "https://ameriabank.am/service-network",
+    "bank": "ameria",
+    "type": "branch",
+    "name": "Մալաթիա մ/ճ",
+    "address": "ՀՀ, Երևան ք., Մալաթիա-Սեբաստիա վարչական շրջան, Զ. Անդրանիկի փող. 40/4",
+    "phone": "+374 10 56 1111",
+    "hours": "Ստանդարտ գրաֆիկով",
+    "region": "Երևան"
+  },
+  {
+    "url": "https://ameriabank.am/service-network",
+    "bank": "ameria",
+    "type": "branch",
+    "name": "Ավան մ/ճ",
+    "address": "ՀՀ, ք. Երևան, Խուդյակով 175/1",
+    "phone": "+374 10 56 1111",
+    "hours": "Ստանդարտ գրաֆիկով",
+    "region": "Երևան"
+  },
+  {
+    "url": "https://ameriabank.am/service-network",
+    "bank": "ameria",
+    "type": "branch",
+    "name": "Դավթաշեն մ/ճ",
+    "address": "ՀՀ, ք. Երևան, Դավթաշեն 3-րդ թաղամաս, Տիգրան Պետրոսյան փող., 25/5 շենք, «Երևան Սիթի» առևտրի կենտրոն",
+    "phone": "+374 10 56 1111",
+    "hours": "Երկարացված գրաֆիկով",
+    "region": "Երևան"
+  },
+  {
+    "url": "https://ameriabank.am/service-network",
+    "bank": "ameria",
+    "type": "branch",
+    "name": "Աջափնյակ մ/ճ",
+    "address": "Մազմանյան 1, Գարաժ մաստերս մոլ",
+    "phone": "+374 10 56 1111",
+    "hours": "Երկարացված գրաֆիկով",
+    "region": "Երևան"
+  },
+  {
+    "url": "https://ameriabank.am/service-network",
+    "bank": "ameria",
+    "type": "branch",
+    "name": "«Արտաշատ» մ/ճ",
+    "address": "Արարատ մարզ, համայնք Արտաշատ, ք. Արտաշատ, Օգոստոսի 23 փ, 107",
+    "phone": "+374 10 56 1111",
+    "hours": "Ստանդարտ գրաֆիկով",
+    "region": "Արարատ"
+  },
+  {
+    "url": "https://ameriabank.am/service-network",
+    "bank": "ameria",
+    "type": "branch",
+    "name": "«Էջմիածին» մ/ճ",
+    "address": "ՀՀ, Արմավիրի մարզ, ք. Վաղարշապատ 1101, Մաշտոցի 69/51",
+    "phone": "+374 10 56 1111",
+    "hours": "Ստանդարտ գրաֆիկով",
+    "region": "Արմավիր"
+  },
+  {
+    "url": "https://ameriabank.am/service-network",
+    "bank": "ameria",
+    "type": "branch",
+    "name": "«Աբովյան» մ/ճ",
+    "address": "ՀՀ, Կոտայքի մարզ, ք. Աբովյան, 2205, Սահմանադրության հրապ. 7/2",
+    "phone": "+374 10 56 1111",
+    "hours": "Ստանդարտ գրաֆիկով",
+    "region": "Կոտայք"
+  },
+  {
+    "url": "https://ameriabank.am/service-network",
+    "bank": "ameria",
+    "type": "branch",
+    "name": "Հրազդան մ/ճ",
+    "address": "ՀՀ, ք. Հրազդան, Միկրոշրջան, Զ. Անդրանիկի 139, 139/3, 139/4",
+    "phone": "+374 10 56 1111",
+    "hours": "Ստանդարտ գրաֆիկով",
+    "region": "Կոտայք"
+  },
+  {
+    "url": "https://ameriabank.am/service-network",
+    "bank": "ameria",
+    "type": "branch",
+    "name": "«Հոմպլեքս» մ/ճ",
+    "address": "Մարզ Կոտայք, համայնք Նաիրի գյուղ Պռոշյան Գ. Չաուշի խճուղի 1/48",
+    "phone": "+374 10 56 1111",
+    "hours": "Երկարացված գրաֆիկով",
+    "region": "Կոտայք"
+  },
+  {
+    "url": "https://ameriabank.am/service-network",
+    "bank": "ameria",
+    "type": "branch",
+    "name": "«Վանաձոր» մ/ճ",
+    "address": "ՀՀ, Լոռու մարզ, ք. Վանաձոր, 2021, Տիգրան Մեծի 65",
+    "phone": "+374 10 56 1111",
+    "hours": "Ստանդարտ գրաֆիկով",
+    "region": "Լոռի"
+  },
+  {
+    "url": "https://ameriabank.am/service-network",
+    "bank": "ameria",
+    "type": "branch",
+    "name": "«Կումայրի» մ/ճ",
+    "address": "ՀՀ, Շիրակի մարզ, ք. Գյումրի, Աբովյան 248/7",
+    "phone": "+374 10 56 1111",
+    "hours": "Ստանդարտ գրաֆիկով",
+    "region": "Շիրակ"
+  },
+  {
+    "url": "https://ameriabank.am/service-network",
+    "bank": "ameria",
+    "type": "branch",
+    "name": "«Քաջարան» մ/ճ",
+    "address": "ՀՀ, ք. Քաջարան, 3309, Լեռնագործների 16/31",
+    "phone": "+374 10 56 1111",
+    "hours": "Ստանդարտ գրաֆիկով",
+    "region": "Սյունիք"
+  },
+  {
+    "url": "https://ameriabank.am/service-network",
+    "bank": "ameria",
+    "type": "branch",
+    "name": "«Կապան» մ/ճ",
+    "address": "ՀՀ, Սյունիքի մարզ, ք. Կապան 3302, Շահումյան փող. թիվ 1 շենք",
+    "phone": "+374 10 56 1111",
+    "hours": "Ստանդարտ գրաֆիկով",
+    "region": "Սյունիք"
+  },
+  {
+    "url": "https://ameriabank.am/service-network",
+    "bank": "ameria",
+    "type": "branch",
+    "name": "Ագարակ մ/ճ",
+    "address": "ՀՀ,Սյունիքի մարզ, ք. Ագարակ, Գ. Նժդեհի փողոց 7 վարչական շենք",
+    "phone": "+374 10 56 1111",
+    "hours": "Ստանդարտ գրաֆիկով",
+    "region": "Սյունիք"
+  },
+  {
+    "url": "https://ameriabank.am/service-network",
+    "bank": "ameria",
+    "type": "branch",
+    "name": "«Դիլիջան» մ/ճ",
+    "address": "ՀՀ, Տավուշի մարզ, ք. Դիլիջան, 3901, Մյասնիկյան 66",
+    "phone": "+374 10 56 1111",
+    "hours": "Ստանդարտ գրաֆիկով",
+    "region": "Տավուշ"
+  },
+  {
+    "url": "https://ameriabank.am/service-network",
+    "bank": "ameria",
+    "type": "branch",
+    "name": "«Ջերմուկ» մ/ճ",
+    "address": "ՀՀ, Վայոց Ձորի մարզ, ք. Ջերմուկ, 3701, Շահումյան 14/3",
+    "phone": "+374 10 56 1111",
+    "hours": "Ստանդարտ գրաֆիկով",
+    "region": "Վայոց ձոր"
+  }
+]

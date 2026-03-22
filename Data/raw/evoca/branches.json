@@ -1,0 +1,189 @@
+[
+  {
+    "url": "https://www.evoca.am/hy/branches-and-atms?type=branches",
+    "bank": "evoca",
+    "type": "branch",
+    "name": "Գլխամասային գրասենյակ",
+    "hours": "09:30 - 17:00",
+    "address": "Հանրապետության 44/2",
+    "phone": "+374 10 60 55 55, +374 98 20 55 55, +374 99 60 55 55",
+    "region": "yerevan",
+    "community": "kentron"
+  },
+  {
+    "url": "https://www.evoca.am/hy/branches-and-atms?type=branches",
+    "bank": "evoca",
+    "type": "branch",
+    "name": "\"Պարոնյան\" մասնաճյուղ",
+    "hours": "09:30 - 17:00",
+    "address": "Պարոնյան 15/3",
+    "phone": "+374 10 60 55 55",
+    "region": "yerevan",
+    "community": "kentron"
+  },
+  {
+    "url": "https://www.evoca.am/hy/branches-and-atms?type=branches",
+    "bank": "evoca",
+    "type": "branch",
+    "name": "\"Ազատության 12\" մասնաճյուղ",
+    "hours": "09:30 - 17:00, Շաբաթ՝ 10:00 - 14:00",
+    "address": "Ազատության 12",
+    "phone": "+374 10 60 55 55",
+    "region": "yerevan",
+    "community": "qanaqer_zeytun"
+  },
+  {
+    "url": "https://www.evoca.am/hy/branches-and-atms?type=branches",
+    "bank": "evoca",
+    "type": "branch",
+    "name": "\"Թումանյան\" մասնաճյուղ",
+    "hours": "09:30 - 21:30, Շաբաթ՝ 10:00 - 17:30",
+    "address": "Թումանյան 15",
+    "phone": "+374 10 60 55 55",
+    "region": "yerevan",
+    "community": "kentron"
+  },
+  {
+    "url": "https://www.evoca.am/hy/branches-and-atms?type=branches",
+    "bank": "evoca",
+    "type": "branch",
+    "name": "\"Կասյան\" մասնաճյուղ",
+    "hours": "09:30 - 17:00",
+    "address": "Կասյան 5",
+    "phone": "+374 10 60 55 55",
+    "region": "yerevan",
+    "community": "kentron"
+  },
+  {
+    "url": "https://www.evoca.am/hy/branches-and-atms?type=branches",
+    "bank": "evoca",
+    "type": "branch",
+    "name": "\"Գարեգին Նժդեհ\" մասնաճյուղ",
+    "hours": "09:30 - 17:00, Շաբաթ՝ 10:00 - 14:00",
+    "address": "Գարեգին Նժդեհ 9/45",
+    "phone": "+374 10 60 55 55",
+    "region": "yerevan",
+    "community": "shengavit"
+  },
+  {
+    "url": "https://www.evoca.am/hy/branches-and-atms?type=branches",
+    "bank": "evoca",
+    "type": "branch",
+    "name": "\"Դավթաշեն\" մասնաճյուղ",
+    "hours": "09:30 - 17:00, Շաբաթ՝ 10:00 - 14:00",
+    "address": "Տիգրան Պետրոսյան 32/8",
+    "phone": "+374 10 60 55 55",
+    "region": "yerevan",
+    "community": "davtashen"
+  },
+  {
+    "url": "https://www.evoca.am/hy/branches-and-atms?type=branches",
+    "bank": "evoca",
+    "type": "branch",
+    "name": "\"Էրեբունի\" մասնաճյուղ",
+    "hours": "09:30 - 17:00",
+    "address": "Գաջեգործների 76",
+    "phone": "+374 10 60 55 55",
+    "region": "yerevan",
+    "community": "erebuni"
+  },
+  {
+    "url": "https://www.evoca.am/hy/branches-and-atms?type=branches",
+    "bank": "evoca",
+    "type": "branch",
+    "name": "\"Գյումրի\" մասնաճյուղ",
+    "hours": "09:30 - 17:00",
+    "address": "Ռուսթավելի 63/1",
+    "phone": "+374 312 5 79 94",
+    "region": "shirak",
+    "community": ""
+  },
+  {
+    "url": "https://www.evoca.am/hy/branches-and-atms?type=branches",
+    "bank": "evoca",
+    "type": "branch",
+    "name": "\"Կոտայք\" մասնաճյուղ",
+    "hours": "09:30 - 17:00",
+    "address": "Օգոստոսի 23 1/2",
+    "phone": "+374 222 60 555",
+    "region": "kotayq",
+    "community": ""
+  },
+  {
+    "url": "https://www.evoca.am/hy/branches-and-atms?type=branches",
+    "bank": "evoca",
+    "type": "branch",
+    "name": "\"Վանաձոր\" մասնաճյուղ",
+    "hours": "09:30 - 17:00",
+    "address": "Գր. Լուսավորիչի 34",
+    "phone": "+374 322 60 555",
+    "region": "lori",
+    "community": ""
+  },
+  {
+    "url": "https://www.evoca.am/hy/branches-and-atms?type=branches",
+    "bank": "evoca",
+    "type": "branch",
+    "name": "\"Կիևյան\" մասնաճյուղ",
+    "hours": "09:30 - 17:00",
+    "address": "Կիևյան 11ա",
+    "phone": "+374 10 60 55 55",
+    "region": "yerevan",
+    "community": "arabkir"
+  },
+  {
+    "url": "https://www.evoca.am/hy/branches-and-atms?type=branches",
+    "bank": "evoca",
+    "type": "branch",
+    "name": "\"Մալաթիա\" մասնաճյուղ",
+    "hours": "09:30 - 17:00, Շաբաթ՝ 10:00 - 14:00",
+    "address": "Անդրանիկի 134/8",
+    "phone": "+374 10 60 55 55",
+    "region": "yerevan",
+    "community": "malatia_sebastia"
+  },
+  {
+    "url": "https://www.evoca.am/hy/branches-and-atms?type=branches",
+    "bank": "evoca",
+    "type": "branch",
+    "name": "\"Նոր Նորք\" մասնաճյուղ",
+    "hours": "09:30 - 17:00",
+    "address": "Գայի պողոտա 14/9",
+    "phone": "+374 10 60 55 55",
+    "region": "yerevan",
+    "community": "nor_norq"
+  },
+  {
+    "url": "https://www.evoca.am/hy/branches-and-atms?type=branches",
+    "bank": "evoca",
+    "type": "branch",
+    "name": "\"Երևան Մոլ\" մասնաճյուղ",
+    "hours": "Երկուշաբթիից կիրակի՝ 10։30 - 21։30",
+    "address": "Արշակունյաց պող., 34/3",
+    "phone": "+374 10 60 55 55",
+    "region": "yerevan",
+    "community": "shengavit"
+  },
+  {
+    "url": "https://www.evoca.am/hy/branches-and-atms?type=branches",
+    "bank": "evoca",
+    "type": "branch",
+    "name": "\"Հանրապետության\" մասնաճյուղ",
+    "hours": "Երկուշաբթիից կիրակի՝ 10։30 - 21։30",
+    "address": "Հանրապետության 59",
+    "phone": "+374 10 60 55 55",
+    "region": "yerevan",
+    "community": "kentron"
+  },
+  {
+    "url": "https://www.evoca.am/hy/branches-and-atms?type=branches",
+    "bank": "evoca",
+    "type": "branch",
+    "name": "\"Աջափնյակ\" մասնաճյուղ",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 9։30 - 17:00",
+    "address": "Աբելյան 2/1",
+    "phone": "+374 10 60 55 55",
+    "region": "yerevan",
+    "community": "ajapnyak"
+  }
+]

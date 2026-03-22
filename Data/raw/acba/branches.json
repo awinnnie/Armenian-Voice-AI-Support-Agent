@@ -1,0 +1,662 @@
+[
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Հոմպլեքս մոլ» մասնաճյուղ",
+    "city": "գ. Պռոշյան",
+    "address": "Մարզ Կոտայք, համայնք Նաիրի, գյուղ Պռոշյան, Գ.Չաուշի խճուղի 1/48 առևտրի սրահ",
+    "hours": "Երկ. կիր.՝ 09։00-00։00",
+    "cash_hours": "Հաշվ. սպասարկում՝ 9։30-21։00 | բացի՝ 13։00-14։00 և 19։00-19։30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Սեբաստիա» մասնաճյուղ",
+    "city": "Երևան",
+    "address": "Սեբաստիայի փողոց 80, թիվ 50 շինություն",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Ավան» մասնաճյուղ",
+    "city": "Երևան",
+    "address": "Մ. Խուդյակովի  փողոց 210/2",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Աջափնյակ» մասնաճյուղ",
+    "city": "ք. Երևան",
+    "address": "Յու. Ֆուչիկի փողոց 1/1 շենք, 300 տարածք",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Գառնի» մասնաճյուղ",
+    "city": "գ․ Գառնի",
+    "address": "Ալեքյան փողոց 28, 28/1",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվ. սպասարկում՝ 9։30-16։30 | բացի՝ 13։00-14։00"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Ճամբարակ» մասնաճյուղ",
+    "city": "ք. Ճամբարակ",
+    "address": "Գ.Նժդեհի փողոց 127/2 սպասարկման գրասենյակ",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Մեղրի» մասնաճյուղ",
+    "city": "ք. Մեղրի",
+    "address": "Զ. Անդրանիկի փողոց 1 կինոթատրոնի շենք",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվ. սպասարկում՝ 9։30-16։30 | բացի՝ 13։00-14։00"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Արաբկիր» մասնաճյուղ",
+    "city": "ք. Երևան",
+    "address": "Սունդուկյան փողոց 64ա շենքի թիվ 2/1 ոչ բնակելի տարածք",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Արմենիա» մասնաճյուղ",
+    "city": "ք. Երևան",
+    "address": "Վ. Սարգսյան փ, 10 շենք, թիվ 123, 124 տարածքներ",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Դավթաշեն» մասնաճյուղ",
+    "city": "ք. Երևան",
+    "address": "Դավթաշեն I թաղամաս, թիվ 42/2",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Երիտասարդական» մասնաճյուղ",
+    "city": "ք.Երևան",
+    "address": "Աբովյան 36, թիվ 49",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Երևան մոլ» մասնաճյուղ",
+    "city": "ք.Երևան",
+    "address": "Արշակունյաց 34/3 համար 93 տաղ",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Զեյթուն» մասնաճյուղ",
+    "city": "ք. Երևան",
+    "address": "Դ. Անհաղթի փողոց 13/5",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Էրեբունի» մասնաճյուղ",
+    "city": "ք. Երևան",
+    "address": "Էրեբունի փողոց 23 շենք, թիվ 74 տարածք",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Կենտրոն» մասնաճյուղ",
+    "city": "ք.Երևան",
+    "address": "Արամի 82-84 շ., տարածք 87",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Կեսարիա» մասնաճյուղ",
+    "city": "ք.Երևան",
+    "address": "Մալաթիա-Սեբաստիա, Շերամի փող. 93/3, 93/5",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Կոմիտաս» մասնաճյուղ",
+    "city": "ք.Երևան",
+    "address": "Կոմիտասի պողոտա 58շ., 57 տարածք",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Մալաթիա» մասնաճյուղ",
+    "city": "ք. Երևան",
+    "address": "Մալաթիա-Սեբաստիա հ., Րաֆֆու 55 շենք, հ. 1/1",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Նոր Նորք» մասնաճյուղ",
+    "city": "ք.Երևան",
+    "address": "Գայի պողոտա 16/46",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Շենգավիթ» մասնաճյուղ",
+    "city": "ք. Երևան",
+    "address": "Բագրատունյաց փ. 16/2",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Շինարարներ» մասնաճյուղ",
+    "city": "ք. Երևան",
+    "address": "Շինարարների փողոց 15 շենք, 156 տարածք",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Սայաթ-Նովա» մասնաճյուղ",
+    "city": "ք.Երևան",
+    "address": "Սայաթ-Նովա 8 շենք, 21/1 տարածք և Աբովյան 22 շենք, թիվ 1/1 տարածք",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Տիգրան Մեծ» մասնաճյուղ",
+    "city": "ք. Երևան",
+    "address": "Էրեբունի, Տիգրան Մեծի պողոտա 74 շենք, 56-57 տարածքներ",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Տերյան» մասնաճյուղ",
+    "city": "ք.Երևան",
+    "address": "Սայաթ-Նովա 7 շենք, 12 տարածք",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Օպերա» մասնաճյուղ",
+    "city": "ք.Երևան",
+    "address": "Մաշտոցի պողոտա 42 շենք, 17/1",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Արմավիր» մասնաճյուղ",
+    "city": "ք. Արմավիր",
+    "address": "Երևանյան 16",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Բաղրամյան» մասնաճյուղ",
+    "city": "Արմավիրի մարզ",
+    "address": "Մյասնիկյան համայնք, Երևանյան փողոց 10/1 վարչական շենք",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Էջմիածին» մասնաճյուղ",
+    "city": "ք. Էջմիածին",
+    "address": "Մաշտոցի փ. 30",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Մեծամոր» մասնաճյուղ",
+    "city": "ք. Մեծամոր",
+    "address": "1-ին թաղամաս, 2 բ, 1-6 հանրախանութ",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Արարատ» մասնաճյուղ",
+    "city": "ք. Արտաշատ",
+    "address": "Շահումյան փ. 31",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Արաքս» մասնաճյուղ",
+    "city": "ք. Արարատ",
+    "address": "Շահումյան 45/1",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Մասիս» մասնաճյուղ",
+    "city": "ք. Մասիս",
+    "address": "Կենտրոնական հրապարակ թիվ 3",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Վեդի» մասնաճյուղ",
+    "city": "ք. Վեդի",
+    "address": "Արարատյան 42/2",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Արագած» մասնաճյուղ",
+    "city": "գ. Ծաղկահովիտ",
+    "address": "Հոկտեմբերյան փ. 2/1",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվ. սպասարկում՝ 9։30-16։30 | բացի՝ 13։00-14։00"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Արագածոտն» մասնաճյուղ",
+    "city": "ք. Աշտարակ",
+    "address": "Ն. Աշտարակեցու հրապարակ 1/1",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Ապարան» մասնաճյուղ",
+    "city": "ք. Ապարան",
+    "address": "Բաղրամյան 37",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Աշտարակ» մասնաճյուղ",
+    "city": "ք. Աշտարակ",
+    "address": "Երևանյան փ. 1",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Թալին» մասնաճյուղ",
+    "city": "ք. Թալին",
+    "address": "Կոմիտասի 4",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Անի» մասնաճյուղ",
+    "city": "ք. Գյումրի",
+    "address": "Անի թաղամաս, 7-րդ փողոց, 5/2",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Աշոցք» մասնաճյուղ",
+    "city": "գ. Աշոցք",
+    "address": "1-ին փ., 9 շենք",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Արթիկ» մասնաճյուղ",
+    "city": "ք. Արթիկ",
+    "address": "Անկախության 28/1",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Գյումրի» մասնաճյուղ",
+    "city": "ք. Գյումրի",
+    "address": "Շիրակացու փ. 18ա",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Մարալիկ» մասնաճյուղ",
+    "city": "ք. Մարալիկ",
+    "address": "Ազատության հրապարակ թիվ 13",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Շիրակ» մասնաճյուղ",
+    "city": "ք. Գյումրի",
+    "address": "Աբովյան փ․ 256",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Գեղարքունիք» մասնաճյուղ",
+    "city": "ք. Գավառ",
+    "address": "Բոշնաղյան փ.",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Մարտունի» մասնաճյուղ",
+    "city": "ք.Մարտունի",
+    "address": "Երևանյան 52",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Սևան» մասնաճյուղ",
+    "city": "ք. Սևան",
+    "address": "Նաիրյան փողոց 153/33",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Վարդենիս» մասնաճյուղ",
+    "city": "ք.Վարդենիս",
+    "address": "Ռոմանի 5/1",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Ալավերդի» մասնաճյուղ",
+    "city": "ք. Ալավերդի",
+    "address": "Թումանյան 59",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Լոռի» մասնաճյուղ",
+    "city": "ք. Վանաձոր",
+    "address": "Տիգրան Մեծի փ. 22ա",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Սպիտակ» մասնաճյուղ",
+    "city": "ք. Սպիտակ",
+    "address": "Ս. Ավետիսյան 3",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Տաշիր» մասնաճյուղ",
+    "city": "ք. Տաշիր",
+    "address": "Կիրովի փ., թաղ. 5, թիվ 192",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Ստեփանավան» մասնաճյուղ",
+    "city": "ք. Ստեփանավան",
+    "address": "Գ. Նժդեհի 9",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Բերդ» մասնաճյուղ",
+    "city": "ք. Բերդ",
+    "address": "Լևոն Բեկի 1/3",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Դիլիջան» մասնաճյուղ",
+    "city": "ք. Դիլիջան",
+    "address": "Մյասնիկյան փ. 37/2",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Նոյեմբերյան» մասնաճյուղ",
+    "city": "ք. Նոյեմբերյան",
+    "address": "Բարեկամության 2",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Տավուշ» մասնաճյուղ",
+    "city": "ք. Իջևան",
+    "address": "Վալանսի փ. 6/4",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Եղվարդ» մասնաճյուղ",
+    "city": "ք. Եղվարդ",
+    "address": "Չարենցի 48",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Հրազդան» մասնաճյուղ",
+    "city": "ք. Հրազդան",
+    "address": "Կենտրոն թաղ. 31/101",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Կոտայք» մասնաճյուղ",
+    "city": "ք. Աբովյան",
+    "address": "Հատիսի փ. 4/2",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Գորիս» մասնաճյուղ",
+    "city": "ք. Գորիս",
+    "address": "Անկախության 2/5",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Չարենցավան» մասնաճյուղ",
+    "city": "ք. Չարենցավան",
+    "address": "Խանջյան 2/1-2/3",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Սյունիք» մասնաճյուղ",
+    "city": "ք. Կապան",
+    "address": "Արամ Մանուկյան 4",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Սիսիան» մասնաճյուղ",
+    "city": "ք. Սիսիան",
+    "address": "Սիսական փ. 39դ",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Վայոց Ձոր» մասնաճյուղ",
+    "city": "ք․ Եղեգնաձոր",
+    "address": "Պ.Սևակի փ. 2/5",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  },
+  {
+    "url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs",
+    "bank": "acba",
+    "type": "branch",
+    "name": "«Վայք» մասնաճյուղ",
+    "city": "ք. Վայք",
+    "address": "Շահումյան 98/3-4",
+    "hours": "Երկուշաբթիից ուրբաթ՝ 09:30-17:30",
+    "cash_hours": "Հաշվարկադրամարկղային սպասարկում՝ 09:30-16:30"
+  }
+]
